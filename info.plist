@@ -66,15 +66,15 @@
 				<key>escaping</key>
 				<integer>63</integer>
 				<key>keyword</key>
-				<string>pow io</string>
+				<string>pow url</string>
 				<key>runningsubtext</key>
 				<string>Please wait...</string>
 				<key>script</key>
 				<string>ruby list.rb "{query}"</string>
 				<key>subtext</key>
-				<string>Copy xip.io url for pow app.</string>
+				<string>Copy xip.io url.</string>
 				<key>title</key>
-				<string>IO</string>
+				<string>Url</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -99,7 +99,7 @@
 				<key>script</key>
 				<string>ruby list.rb "{query}"</string>
 				<key>subtext</key>
-				<string>List Pow Apps</string>
+				<string>Open app.</string>
 				<key>title</key>
 				<string>Open</string>
 				<key>type</key>
@@ -216,6 +216,6 @@ echo http://{query}.${ip}.xip.io</string>
 		</dict>
 	</dict>
 	<key>webaddress</key>
-	<string></string>
+	<string>linjun.me</string>
 </dict>
 </plist>
