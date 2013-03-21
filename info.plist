@@ -181,7 +181,7 @@ echo http://{query}.${ip}.xip.io</string>
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>Control Pow.</string>
 	<key>uidata</key>
 	<dict>
 		<key>1B54CAFA-3BC6-4253-B464-312EC3F77971</key>
