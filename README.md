@@ -1,6 +1,6 @@
 # Pow Workflow for Alfred 2
 
-![Screen Shot 2013-03-21 at 4 43 54 PM](https://f.cloud.github.com/assets/214616/284871/2e1c23e0-9204-11e2-83d5-d6c3eacd7b2e.png)
+![Screen Shot 2013-03-21 at 9 51 55 PM](https://f.cloud.github.com/assets/214616/285912/8ee3efee-922e-11e2-860a-abcae41f4b28.png)
 
 ## Download
 
