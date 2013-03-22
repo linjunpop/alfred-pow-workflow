@@ -1,7 +1,7 @@
 require 'rexml/document'
 doc = REXML::Document.new
 
-Dir.chdir "#{File.expand_path('~')}/.pow"
+Dir.chdir(File.expand_path('~/.pow'))
 app_list = Dir.glob('*')
 
 items = doc.add_element 'items'
