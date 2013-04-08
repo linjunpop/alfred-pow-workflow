@@ -169,7 +169,7 @@
 				<key>escaping</key>
 				<integer>63</integer>
 				<key>script</key>
-				<string>ip=`ifconfig | grep "inet " | grep -v 127.0.0.1 | cut -d\  -f2`
+				<string>ip=`ifconfig | grep "inet " | grep -v -E "(127.0.0.1)|(--&gt;)" | cut -d\  -f2`
 echo http://{query}.${ip}.xip.io</string>
 				<key>type</key>
 				<integer>0</integer>
